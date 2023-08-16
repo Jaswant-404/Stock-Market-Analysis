@@ -20,4 +20,4 @@ I used different technologies such as Python, Amazon Web Services (AWS), Apache 
 
 
 ## Dataset Used
-You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
+You can use any dataset, i am mainly interested in operation side of Data Engineering (building data pipeline) 
